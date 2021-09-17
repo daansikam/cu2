@@ -1,0 +1,23 @@
+body
+{
+    background-color: navy;
+    color: white;
+}
+h1 { margin-left: 450px;
+    color: white;
+    color: white;
+        text-shadow: 1px 1px 2px black, 0 0 25px purple, 0 0 5px pink;
+    border:  2px solid seashell;
+    border-radius: 4px;
+    }
+h2 { margin-left: 550px;
+    color: white;
+}
+  p { margin-left: 520px;
+    color: white;
+  }
+img { margin-left: 450px;
+    color: white;
+      border-radius: 50%;
+      
+}
